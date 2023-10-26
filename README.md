@@ -1,2 +1,2 @@
 # TacTic--Surya
-Tic Tac Toe game made by Surya
+Tic Tac Toe Android game made by Surya
